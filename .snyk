@@ -6,3 +6,6 @@ patch:
   'npm:tough-cookie:20170905':
     - tilelive-vector > request > tough-cookie:
         patched: '2017-10-18T20:10:25.366Z'
+  'npm:request:20160119':
+    - tilelive-vector > request:
+        patched: '2017-10-18T20:13:02.650Z'
