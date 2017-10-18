@@ -3,9 +3,8 @@ version: v1.7.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
-  'npm:request:20160119':
-    - tilelive-vector > request:
-        patched: '2017-10-18T20:09:27.790Z'
-  'npm:tough-cookie:20160722':
+  'npm:tough-cookie:20170905':
     - tilelive-vector > request > tough-cookie:
-        patched: '2017-10-18T20:14:18.558Z'
+        patched: '2017-10-18T20:10:25.366Z'
+    - tilelive-vector > request > tough-cookie:
+        patched: '2017-10-18T20:15:16.339Z'
